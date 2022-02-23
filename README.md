@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QQAQBnQ4zNgbLU5O3mgAtIC2wyaLE8y-?usp=sharing)
+
 # Bayesian Combination
 
 ## Contents
